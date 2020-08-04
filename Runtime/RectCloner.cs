@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+
 public class RectCloner : MonoBehaviour
 {
     // Instantiates prefabs in a rectangle formation
